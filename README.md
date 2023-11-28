@@ -1,16 +1,15 @@
-# hthFinal
-#Dataset: Correlation between Social Media use and General Mental Well-being
-#https://www.kaggle.com/datasets/souvikahmed071/social-media-and-mental-health
-#As a huge media consumer, the topic of mental health and social media interests me.
+# Hack the Hood Final Project
+Dataset: Mall Customer Segmentation Data: https://kaggle.com/datasets/vjchoudhary7/customer-segmentation-tutorial-in-python <br />
+As someone now incredibly interested in economics, I want to research something in that field.
 
 # Questions:
-#1. What is the distribution of social media usage among different age groups?
-#2. Is there a difference in social media usage between different genders?
-#3. How does relationship status correlate with social media habits and mental health?
-#4. How does frequency of social media usage correlate with feelings of depression?
-#5. What age group is most affected by comparison on social media?
-#6. How does comparison on social media correlate with feelings of distress?
-#7. Who spends most time with social media?
-#8. Does occupation status relate to seeking validation on social media?
-#9. Is there a difference in social media's effect on mental health between genders?
-#10. Does social media's affect on sleep issues vary among different age groups?
+#1. Typically what age group spends the least or most?  <br />
+#2. What gender spends the least or most?  <br />
+#3. What combination of age and gender spends the most? <br />
+#4. What is the average income of the people going to this mall?  <br />
+#5. Of the people who go to this mall, what age group has the most amount of money? <br />
+#6. Of the people who go to this mall, what gender has the most amount of income?  <br />
+#7. Does the person with the most income spend the most?  <br />
+#8. Does the person with the least amount of income spend the least?  <br />
+#9. What gender has the most amount of income on average, male or female?  <br />
+#10. What gender has the least amount of income on average, male or female?
