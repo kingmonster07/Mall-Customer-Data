@@ -5,7 +5,7 @@ As someone now incredibly interested in economics, I want to research something 
 # Questions:
 #1. Typically what age group spends the least and most?  <br />
 #2. What gender spends the least and most?  <br />
-#3. What 5 people have the highest and lowest spending score <br />
+#3. What 5 people have the highest and lowest spending score? <br />
 #4. What is the average income of the people going to this mall?  <br />
 #5. Of the people who go to this mall, what age group has the most amount of money? <br />
 #6. Of the people who go to this mall, what gender has the most amount of income?  <br />
